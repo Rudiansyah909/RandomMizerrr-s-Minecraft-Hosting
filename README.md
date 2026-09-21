@@ -1,4 +1,4 @@
-# RandomMizerrr-s-Minecraft-Hosting
+# RandomMizerrr's Minecraft Hosting
 An GitHub CodeSpaces For Your Minecraft Hosting
 # Creating CodeSpaces
 Click The Code Button
