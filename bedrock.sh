@@ -1,7 +1,7 @@
 #!/bin/bash
+sudo apt update && sudo apt install -y openjdk-21-jre-headless wget
 
 mkdir bedrock
-
 cd bedrock
 
 echo "Installing Nukkit PM1E..."
