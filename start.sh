@@ -10,3 +10,7 @@ wget -O paper-1.21.11-132.jar https://fill-data.papermc.io/v1/objects/5ffef465ee
 echo "eula=true" > eula.txt
 
 java -Xms16G -Xmx16G -jar paper-1.21.11-132.jar nogui
+
+echo "Restarting...."
+
+java -Xms16G -Xmx16G -jar paper-1.21.11-132.jar nogui
