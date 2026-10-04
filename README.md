@@ -1,5 +1,5 @@
 # RandomMizerrr's Minecraft Hosting
-An GitHub CodeSpaces For Your Minecraft Hosting
+An Minecraft Hosting Using GitHub CodesSpace
 # Creating CodeSpaces
 Click The Code Button
 Then Click Codespaces and create
