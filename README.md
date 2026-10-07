@@ -9,7 +9,7 @@ Then Type ``` ./start.sh ```
 and bom this done
 # How To Start (Bedrock) 
 Just Like The Java
-``` chmod +x start.sh ```
+``` chmod +x bedrock.sh ```
 Then Type ``` ./bedrock.sh ```
 # Installing Plugins (Download For 1.21.11 Plugin) 
 Go To This Website [**Click Here**](https://modrinth.com/discover/plugins?g=categories!=folia&g=categories!=purpur&g=categories!=sponge&g=categories!=bukkit&g=categories!=spigot) 
